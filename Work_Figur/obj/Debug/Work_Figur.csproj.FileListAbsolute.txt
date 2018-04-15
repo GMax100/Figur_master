@@ -1,0 +1,41 @@
+D:\Program\C#\Work_Figur\Work_Figur\bin\Debug\Work_Figur.exe.config
+D:\Program\C#\Work_Figur\Work_Figur\bin\Debug\Work_Figur.exe
+D:\Program\C#\Work_Figur\Work_Figur\bin\Debug\Work_Figur.pdb
+D:\Program\C#\Work_Figur\Work_Figur\obj\Debug\Work_Figur.csprojResolveAssemblyReference.cache
+D:\Program\C#\Work_Figur\Work_Figur\obj\Debug\Work_Figur.Form1.resources
+D:\Program\C#\Work_Figur\Work_Figur\obj\Debug\Work_Figur.Properties.Resources.resources
+D:\Program\C#\Work_Figur\Work_Figur\obj\Debug\Work_Figur.csproj.GenerateResource.Cache
+D:\Program\C#\Work_Figur\Work_Figur\obj\Debug\Work_Figur.exe
+D:\Program\C#\Work_Figur\Work_Figur\obj\Debug\Work_Figur.pdb
+E:\1. Documents\Ubuntu\Figur-master\Figur-master\Work_Figur\bin\Debug\Work_Figur.exe.config
+E:\1. Documents\Ubuntu\Figur-master\Figur-master\Work_Figur\obj\Debug\Work_Figur.exe
+E:\1. Documents\Ubuntu\Figur-master\Figur-master\Work_Figur\obj\Debug\Work_Figur.pdb
+C:\CSharp\Figur-master\Work_Figur\bin\Debug\Work_Figur.exe.config
+C:\CSharp\Figur-master\Work_Figur\obj\Debug\Work_Figur.exe
+C:\CSharp\Figur-master\Work_Figur\obj\Debug\Work_Figur.pdb
+C:\CSharp\Figur-master\Work_Figur\bin\Debug\Work_Figur.exe
+C:\CSharp\Figur-master\Work_Figur\bin\Debug\Work_Figur.pdb
+C:\CSharp\Figur-master\Work_Figur\obj\Debug\Work_Figur.csprojResolveAssemblyReference.cache
+C:\CSharp\Figur-master\Work_Figur\obj\Debug\Work_Figur.Form1.resources
+C:\CSharp\Figur-master\Work_Figur\obj\Debug\Work_Figur.Properties.Resources.resources
+C:\CSharp\Figur-master\Work_Figur\obj\Debug\Work_Figur.csproj.GenerateResource.Cache
+C:\Users\Asus\Downloads\Figur-master\Figur-master\Work_Figur\bin\Debug\Work_Figur.exe.config
+C:\Users\Asus\Downloads\Figur-master\Figur-master\Work_Figur\obj\Debug\Work_Figur.exe
+C:\Users\Asus\Downloads\Figur-master\Figur-master\Work_Figur\obj\Debug\Work_Figur.pdb
+C:\Users\Asus\Downloads\Figur-master\Figur-master\Work_Figur\bin\Debug\Work_Figur.exe
+C:\Users\Asus\Downloads\Figur-master\Figur-master\Work_Figur\bin\Debug\Work_Figur.pdb
+C:\Users\Asus\Downloads\Figur-master\Figur-master\Work_Figur\obj\Debug\Work_Figur.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Downloads\Figur-master\Figur-master\Work_Figur\obj\Debug\Work_Figur.Form1.resources
+C:\Users\Asus\Downloads\Figur-master\Figur-master\Work_Figur\obj\Debug\Work_Figur.Properties.Resources.resources
+C:\Users\Asus\Downloads\Figur-master\Figur-master\Work_Figur\obj\Debug\Work_Figur.csproj.GenerateResource.Cache
+C:\Users\Asus\Downloads\Figur-master\Figur-master\Work_Figur\bin\Debug\Work_Figur.XML
+C:\Users\camar\Desktop\Figur-master\Work_Figur\bin\Debug\Work_Figur.exe.config
+C:\Users\camar\Desktop\Figur-master\Work_Figur\bin\Debug\Work_Figur.XML
+C:\Users\camar\Desktop\Figur-master\Work_Figur\bin\Debug\Work_Figur.exe
+C:\Users\camar\Desktop\Figur-master\Work_Figur\bin\Debug\Work_Figur.pdb
+C:\Users\camar\Desktop\Figur-master\Work_Figur\obj\Debug\Work_Figur.csprojResolveAssemblyReference.cache
+C:\Users\camar\Desktop\Figur-master\Work_Figur\obj\Debug\Work_Figur.Form1.resources
+C:\Users\camar\Desktop\Figur-master\Work_Figur\obj\Debug\Work_Figur.Properties.Resources.resources
+C:\Users\camar\Desktop\Figur-master\Work_Figur\obj\Debug\Work_Figur.csproj.GenerateResource.Cache
+C:\Users\camar\Desktop\Figur-master\Work_Figur\obj\Debug\Work_Figur.exe
+C:\Users\camar\Desktop\Figur-master\Work_Figur\obj\Debug\Work_Figur.pdb
